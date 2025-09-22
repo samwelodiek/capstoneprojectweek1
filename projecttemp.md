@@ -20,6 +20,7 @@ This project is a full-stack geospatial data science pipeline, leveraging modern
 **Data Acquisition & Storage:**
 *   **Google BigQuery & Earth Engine:** I sourced large-scale historical weather data from public datasets like **ERA5** (a global climate reanalysis dataset from the Copernicus Climate Change Service). Using BigQuery for initial queries and Google Earth Engine for geospatial extraction allowed me to handle terabytes of data efficiently without downloading it all locally.
 *   **API Calls:** For more recent and forecast data, I used the **OpenWeatherMap API**.
+*   My live website is https://studio--studio-3371714505-e5e44.us-central1.hosted.app/
 
 **Data Manipulation & Analysis:**
 *   **Python:** The core language for all data processing, analysis, and modeling.
@@ -82,5 +83,6 @@ The benefits are concrete and measurable, leading to direct social and economic 
 **For an NGO or Government Agency:**
 *   **Targeted Intervention:** Instead of blanketing a country with a single message, they can use the maps to target SMS alerts about impending dry spells only to the districts actually at risk, making their programs more efficient and effective.
 *   **Data-Driven Policy:** The analysis provides hard evidence of how climate patterns are changing, informing national food security policy and resource allocation for irrigation projects or drought relief.
+
 
 In essence, the value of this work is not a pretty map; it's the translation of complex data into **better decisions, reduced risk, and ultimately, more food on the table and more money in the pockets of farmers.**

@@ -1,5 +1,8 @@
 # 🌾 AgriWeather Advisor: Smart Farming Made Simple
 
+## Blog : https://sodie.hashnode.dev/agricast-ke-building-an-intelligent-agricultural-weather-advisor
+
+
 ## Overview
 
 AgriWeather Advisor is an intuitive Python application designed to help farmers make better decisions using weather data. By combining real-time weather information with agricultural expertise, this tool provides personalized recommendations for planting, harvesting, and crop management.
